@@ -1,30 +1,30 @@
 {
-  "name": "Pokémon Fulldex for LiveContainer",
+  "name": "Pokemon Fulldex for LiveContainer",
   "identifier": "io.github.spcrts1-arch.pokemon-fulldex-source",
   "website": "https://github.com/mamesj/pokemon-fulldex",
   "description": "Community catalog linking to official Pokémon Fulldex iOS releases.",
   "iconURL": "https://raw.githubusercontent.com/spcrts1-arch/pokemon-fulldex-source/main/icon.png",
   "apps": [
     {
-      "name": "Pokémon Fulldex",
+      "name": "Pokemon Fulldex",
       "bundleIdentifier": "io.github.mamesj.pokemonds",
       "developerName": "mamesj",
       "localizedDescription": "Play your own compatible Nintendo DS and Game Boy Advance ROMs.",
       "iconURL": "https://raw.githubusercontent.com/spcrts1-arch/pokemon-fulldex-source/main/icon.png",
       "version": "1.0",
-      "versionDate": "2026-11-08T13:44:49Z",
-      "versionDescription": "Official Fulldex release: fulldex-2026-11-08.",
-      "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/fulldex-2026-11-08/pokemon-ds-wide-ios.ipa",
-      "size": 13211994,
+      "versionDate": "2026-11-12T19:30:11Z",
+      "versionDescription": "Official Fulldex release: fulldex-2026-11-12.",
+      "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/fulldex-2026-11-12/pokemon-ds-wide-ios.ipa",
+      "size": 13303197,
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "buildNumber": "1",
-          "date": "2026-11-08T13:44:49Z",
-          "localizedDescription": "Official Fulldex release: fulldex-2026-11-08.",
-          "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/fulldex-2026-11-08/pokemon-ds-wide-ios.ipa",
-          "size": 13211994,
+          "date": "2026-11-12T19:30:11Z",
+          "localizedDescription": "Official Fulldex release: fulldex-2026-11-12.",
+          "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/fulldex-2026-11-12/pokemon-ds-wide-ios.ipa",
+          "size": 13303197,
           "minOSVersion": "14.0"
         }
       ]
