@@ -12,19 +12,19 @@
       "localizedDescription": "Play your own compatible Nintendo DS and Game Boy Advance ROMs.",
       "iconURL": "https://raw.githubusercontent.com/spcrts1-arch/pokemon-fulldex-source/main/icon.png",
       "version": "1.0",
-      "versionDate": "2026-11-16T21:35:53Z",
-      "versionDescription": "Official Fulldex release: v1.6.0.",
-      "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.6.0/pokemon-ds-wide-ios.ipa",
-      "size": 13521493,
+      "versionDate": "2026-11-20T14:55:02Z",
+      "versionDescription": "Official Fulldex release: v1.7.0.",
+      "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.7.0/pokemon-ds-wide-ios.ipa",
+      "size": 13895757,
       "versions": [
         {
           "version": "1.0",
           "buildVersion": "1",
           "buildNumber": "1",
-          "date": "2026-11-16T21:35:53Z",
-          "localizedDescription": "Official Fulldex release: v1.6.0.",
-          "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.6.0/pokemon-ds-wide-ios.ipa",
-          "size": 13521493,
+          "date": "2026-11-20T14:55:02Z",
+          "localizedDescription": "Official Fulldex release: v1.7.0.",
+          "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.7.0/pokemon-ds-wide-ios.ipa",
+          "size": 13895757,
           "minOSVersion": "14.0"
         }
       ]
