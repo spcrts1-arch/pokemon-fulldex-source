@@ -1,11 +1,11 @@
 {
-  "release": "v1.7.0",
-  "publishedAt": "2026-11-20T14:55:02Z",
-  "assetUpdatedAt": "2026-11-20T14:54:39Z",
-  "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.7.0/pokemon-ds-wide-ios.ipa",
-  "sha256": "42f834e0c8b73c5ad6b1d0f544d11a23151e6cf57152cb880a2c6fda730d3527",
+  "release": "v1.8.0",
+  "publishedAt": "2026-11-26T21:01:46Z",
+  "assetUpdatedAt": "2026-11-26T21:01:52Z",
+  "downloadURL": "https://github.com/mamesj/pokemon-fulldex/releases/download/v1.8.0/pokemon-ds-wide-ios.ipa",
+  "sha256": "166c970879039957f63fe89709c3eedc878af2e13e2f8e1eb0235f819c132387",
   "iconURL": "https://raw.githubusercontent.com/spcrts1-arch/pokemon-fulldex-source/main/icon.png",
   "iconSHA256": "ba409b53bf4ea94b8102f3980916a6b0d4010c2fddb003294e1addc165850650",
-  "sourceSHA256": "907155efd820e4c0662832a346c1056b02f8bd6d244fb222396e1689e4381f9e",
-  "lastVerifiedAt": "2026-11-20T16:04:28Z"
+  "sourceSHA256": "6f29ffc8775e9860cf849b26414532ec37e57dfa435d7c5314d82bc75f251b48",
+  "lastVerifiedAt": "2026-11-26T21:54:21Z"
 }
